@@ -127,3 +127,29 @@ Affected parameters are:
    logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
    assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
 Restoring event log to previous state for source Service1.
+Installing assembly 'D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowService_Schedular\WindowService_Schedular\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe

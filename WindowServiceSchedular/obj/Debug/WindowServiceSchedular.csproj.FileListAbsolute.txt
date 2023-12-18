@@ -1,0 +1,9 @@
+D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe.config
+D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.pdb
+D:\project\WindowServiceSchedular\obj\Debug\WindowServiceSchedular.csproj.AssemblyReference.cache
+D:\project\WindowServiceSchedular\obj\Debug\WindowServiceSchedular.ProjectInstaller.resources
+D:\project\WindowServiceSchedular\obj\Debug\WindowServiceSchedular.csproj.GenerateResource.cache
+D:\project\WindowServiceSchedular\obj\Debug\WindowServiceSchedular.csproj.CoreCompileInputs.cache
+D:\project\WindowServiceSchedular\obj\Debug\WindowServiceSchedular.exe
+D:\project\WindowServiceSchedular\obj\Debug\WindowServiceSchedular.pdb

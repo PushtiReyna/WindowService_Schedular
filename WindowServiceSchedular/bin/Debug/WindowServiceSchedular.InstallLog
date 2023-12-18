@@ -1,0 +1,129 @@
+﻿Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Cannot start service Service1 on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: An instance of the service is already running.
+Rolling back assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.InstallLog
+   assemblypath = D:\project\WindowServiceSchedular\bin\Debug\WindowServiceSchedular.exe
+Restoring event log to previous state for source Service1.
